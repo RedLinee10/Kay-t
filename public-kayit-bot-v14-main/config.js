@@ -1,5 +1,5 @@
 module.exports = {
-    token: "MTA1Mjk3MTIwNjY3Mzk2MTA1MQ.GjZJtQ.wEeGvRJSKPuqSBVWbxPBvEA-YVyfuiw4nCWvhs", 
+    token: "MTA1Mjk3MTIwNjY3Mzk2MTA1MQ.GLWNgK.uc9NewYhlOZxSpK-0Oyj11bXbkWukYoldvxGbQ", 
     prefix: "."
 }
 
